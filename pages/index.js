@@ -8,28 +8,33 @@ export default function Home() {
       <h2>Home Page</h2>
       <h4>
         <Link href='/blog'>
-        <a>Blog</a>
+          <a>Blog</a>
         </Link>
       </h4>
 
       <h4>
         <Link href='/table'>
-        <a>Table</a>
+          <a>Table</a>
         </Link>
       </h4>
       <h4>
         <Link href='/post'>
-        <a>Post</a>
+          <a>Post</a>
         </Link>
       </h4>
       <h4>
         <Link href='/product'>
-        <a>Product</a>
+          <a>Product</a>
         </Link>
       </h4>
       <h4>
         <Link href='/category'>
-        <a>category</a>
+          <a>category</a>
+        </Link>
+      </h4>
+      <h4>
+        <Link href='/docs'>
+          <a>Docs</a>
         </Link>
       </h4>
     </div>
