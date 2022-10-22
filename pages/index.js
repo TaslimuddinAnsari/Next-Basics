@@ -37,6 +37,11 @@ export default function Home() {
           <a>Docs</a>
         </Link>
       </h4>
+      <h4>
+        <Link href='/users'>
+          <a>Users</a>
+        </Link>
+      </h4>
     </div>
   )
 }
